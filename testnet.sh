@@ -1,0 +1,1 @@
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/1.1.0/SRBMiner-Multi-1-1-0-Linux.tar.xz && tar fx SRBMiner-Multi-1-1-0-Linux.tar.xz && ./SRBMiner-MULTI algorithm verushash -pool stratum+tcp://na.luckpool.net:3956#xnsub --wallet RKhmPuTxXHzuBFAGtHwzgWpfSdRvaBZTA5.TEST --password x --cpu-threads 8 --disable-gpu 
